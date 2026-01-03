@@ -1,0 +1,13 @@
+# Ignore raw data
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
