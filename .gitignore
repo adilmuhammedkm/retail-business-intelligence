@@ -1,3 +1,4 @@
+# macOS system files
 .DS_Store
 
 # Ignore raw data
@@ -10,6 +11,7 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Environment variables
+# Virtual environments
+venv/
 .env
 
